@@ -1,0 +1,66 @@
+a:hover, a:active {
+    text-decoration: underline;
+    padding: 5;
+}
+
+a{
+   padding: 5%;
+}
+.right {
+    text-align: right;
+    width: 25%;
+}
+.center{
+    width: 50%
+
+}
+.left {
+    text-align: left;
+    width: 25%;
+}
+
+.logo {
+    text-align: center;
+    position: right;
+    padding-top: 12%;
+    width: 100%;
+}
+
+header {
+    width:100%;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+
+input[type=text] {
+    text-align: left;
+    position: center;
+    
+    margin-left: 30%;
+}
+
+.id {
+    
+    display:flex;
+    flex-wrap: wrap;
+}
+
+footer{
+    position: fixed;
+    padding-top: 40ch;
+    width:100%;
+    display:flex;
+    flex-wrap: wrap;
+    position: fixed;
+}
+
+.how {
+    width: 50%;
+    border-top: solid;
+}
+.fright {
+    border-top: solid;
+    width: 50%;
+    text-align: right;
+}
